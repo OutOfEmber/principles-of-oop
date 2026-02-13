@@ -127,7 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CustomExpressionEvaluator.cpp" />
+    <ClCompile Include="ExpressionEvaluator.cpp" />
+    <ClCompile Include="ILoggable.cpp" />
+    <ClCompile Include="IShuffle.cpp" />
+    <ClCompile Include="Multiplier.cpp" />
     <ClCompile Include="principles-of-oop.cpp" />
+    <ClCompile Include="Substractor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CustomExpressionEvaluator.h" />
+    <ClInclude Include="ExpressionEvaluator.h" />
+    <ClInclude Include="ILoggable.h" />
+    <ClInclude Include="IShuffle.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="Multiplier.h" />
+    <ClInclude Include="Substractor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

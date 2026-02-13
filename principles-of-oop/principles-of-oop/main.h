@@ -1,0 +1,12 @@
+#pragma once  
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <ctime>
+#include <chrono>
+#include "Multiplier.h"
+#include "Substractor.h"
+#include "IShuffle.h"
+#include "ILoggable.h"
+#include "ExpressionEvaluator.h"
+#include "CustomExpressionEvaluator.h"

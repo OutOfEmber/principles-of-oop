@@ -1,2 +1,226 @@
-﻿  principles-of-oop.cpp
-  principles-of-oop.vcxproj -> \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\x64\Debug\principles-of-oop.exe
+﻿  CustomExpressionEvaluator.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "CustomExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "CustomExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "CustomExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "CustomExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "CustomExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "CustomExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.cpp(4,7): error C2011: CustomExpressionEvaluator: переопределение типа "class"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(9,7):
+       см. объявление "CustomExpressionEvaluator"
+  
+  ExpressionEvaluator.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "ExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "ExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "ExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "ExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "ExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "ExpressionEvaluator.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ExpressionEvaluator.cpp(3,7): error C2011: ExpressionEvaluator: переопределение типа "class"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ExpressionEvaluator.h(3,7):
+       см. объявление "ExpressionEvaluator"
+  
+  ILoggable.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "ILoggable.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "ILoggable.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "ILoggable.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "ILoggable.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "ILoggable.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "ILoggable.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.cpp(2,7): error C2011: ILoggable: переопределение типа "class"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(3,7):
+       см. объявление "ILoggable"
+  
+  IShuffle.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "IShuffle.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "IShuffle.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "IShuffle.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "IShuffle.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "IShuffle.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "IShuffle.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\IShuffle.cpp(2,7): error C2011: IShuffle: переопределение типа "class"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\IShuffle.h(2,7):
+       см. объявление "IShuffle"
+  
+  Multiplier.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Multiplier.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "Multiplier.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Multiplier.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "Multiplier.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Multiplier.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Multiplier.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.cpp(3,7): error C2011: Multiplier: переопределение типа "class"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(8,7):
+       см. объявление "Multiplier"
+  
+  principles-of-oop.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "principles-of-oop.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "principles-of-oop.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "principles-of-oop.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "principles-of-oop.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "principles-of-oop.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "principles-of-oop.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(18,25): error C2259: "CustomExpressionEvaluator": невозможно создать экземпляр абстрактного класса
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(9,7):
+       см. объявление "CustomExpressionEvaluator"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(18,25):
+      из-за следующих членов:
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(18,25):
+      void ILoggable::logToFile(const int): абстрактный
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(18,50): error C2259: "CustomExpressionEvaluator": невозможно создать экземпляр абстрактного класса
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(9,7):
+       см. объявление "CustomExpressionEvaluator"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(18,50):
+      из-за следующих членов:
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(18,50):
+      void ILoggable::logToFile(const int): абстрактный
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(22,25): error C2259: "Subtractor": невозможно создать экземпляр абстрактного класса
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,7):
+       см. объявление "Subtractor"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(22,25):
+      из-за следующих членов:
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(22,25):
+      void ILoggable::logToFile(const int): абстрактный
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(22,35): error C2259: "Subtractor": невозможно создать экземпляр абстрактного класса
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,7):
+       см. объявление "Subtractor"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(22,35):
+      из-за следующих членов:
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(22,35):
+      void ILoggable::logToFile(const int): абстрактный
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(26,25): error C2259: "Multiplier": невозможно создать экземпляр абстрактного класса
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(8,7):
+       см. объявление "Multiplier"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(26,25):
+      из-за следующих членов:
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(26,25):
+      void ILoggable::logToFile(const int): абстрактный
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(26,35): error C2259: "Multiplier": невозможно создать экземпляр абстрактного класса
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(8,7):
+       см. объявление "Multiplier"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(26,35):
+      из-за следующих членов:
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(26,35):
+      void ILoggable::logToFile(const int): абстрактный
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(43,28): error C2664: "void ILoggable::logToFile(const int)": невозможно преобразовать аргумент 1 из "const char [9]" в "const int"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(43,38):
+      Не существует контекста, в котором такое преобразование возможно
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,18):
+       см. объявление "ILoggable::logToFile"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\principles-of-oop.cpp(43,28):
+      при попытке сопоставить список аргументов "(const char [9])"
+  
+  Substractor.cpp
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Substractor.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\ILoggable.h(6,40): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "Substractor.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Multiplier.h(13,18): error C3668: Multiplier::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Substractor.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,27): error C2504: CustomExpressionEvaluator: не определен базовый класс
+  (компиляция исходного файла "Substractor.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(15,10): error C3668: Subtractor::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Substractor.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\CustomExpressionEvaluator.h(17,10): error C3668: CustomExpressionEvaluator::logToFile: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "Substractor.cpp")
+  
+\\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.cpp(3,7): error C2011: Subtractor: переопределение типа "class"
+      \\mkit-srv\redirectedfolders$\v.tereshenko\Desktop\github\mdkcpplr3\principles-of-oop\principles-of-oop\principles-of-oop\Substractor.h(9,7):
+       см. объявление "Subtractor"
+  
+  Создание кода...
