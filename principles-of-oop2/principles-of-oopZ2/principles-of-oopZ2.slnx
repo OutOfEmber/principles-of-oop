@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="principles-of-oopZ2/principles-of-oopZ2.vcxproj" />
+</Solution>

@@ -1,30 +1,28 @@
-#include "main.h"
+#include "ExpressionEvaluator.h"
+#include <iostream>
+
 using namespace std;
-class ExpressionEvaluator : public ILoggable {
-protected:
-    double* operands;
-    size_t count;
 
-public:
-    ExpressionEvaluator() : count(20) {
-        operands = new double[20] {0.0};
-    }
+ExpressionEvaluator::ExpressionEvaluator() : count(20) {
+    operands = new double[20] {0};
+}
 
-    ExpressionEvaluator(size_t n) : count(n) {
-        operands = new double[n] {0.0};
-    }
+ExpressionEvaluator::ExpressionEvaluator(size_t n) : count(n) {
+    operands = new double[n] {0};
+}
 
-    virtual ~ExpressionEvaluator() {
-        delete[] operands;
-    }
+ExpressionEvaluator::~ExpressionEvaluator() {
+    delete[] operands;
+}
 
-    void setOperand(size_t pos, double value) {
-        if (pos < count) operands[pos] = value;
-    }
+void ExpressionEvaluator::setOperand(size_t pos, double value) {
+    if (pos < count) operands[pos] = value;
+}
 
-    void setOperands(double ops[], size_t n) {
-        for (size_t i = 0; i < n && i < count; ++i) operands[i] = ops[i];
-    }
+void ExpressionEvaluator::setOperands(double ops[], size_t n) {
+    for (size_t i = 0; i < n && i < count; ++i) operands[i] = ops[i];
+}
 
-    virtual double calculate() = 0;
-};
+string ExpressionEvaluator::formatOp(double val) {
+    return (val < 0) ? "(" + to_string(val) + ")" : to_string(val);
+}

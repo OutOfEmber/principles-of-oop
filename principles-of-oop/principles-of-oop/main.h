@@ -4,8 +4,9 @@
 #include <string>
 #include <ctime>
 #include <chrono>
+#include <cstddef>
 #include "Multiplier.h"
-#include "Substractor.h"
+#include "Subtractor.h"
 #include "IShuffle.h"
 #include "ILoggable.h"
 #include "ExpressionEvaluator.h"

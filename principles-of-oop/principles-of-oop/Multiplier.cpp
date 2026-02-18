@@ -1,13 +1,25 @@
-#include "main.h"
+#include "Multiplier.h"
+#include <iostream>
+#include <fstream>
+
 using namespace std;
-class Multiplier : public ExpressionEvaluator {
-public:
-    Multiplier(size_t n) : ExpressionEvaluator(n) {}
-    double calculate() override {
-        double res = operands[0];
-        for (size_t i = 1; i < count; ++i) res *= operands[i];
-        return res;
+
+Multiplier::Multiplier(size_t n) : ExpressionEvaluator(n) {}
+
+double Multiplier::calculate() {
+    double res = 1;
+    for (size_t i = 0; i < count; ++i) res *= operands[i];
+    return res;
+}
+
+void Multiplier::logToScreen() {
+    for (size_t i = 0; i < count; ++i) {
+        cout << formatOp(operands[i]) << (i < count - 1 ? " * " : "");
     }
-    void logToScreen() override { cout << "Multiplier (x1 * x2 * ...)" << endl; }
-    void logToFile(const string& filename) override {}
-};
+    cout << endl;
+}
+
+void Multiplier::logToFile(const string& filename) {
+    ofstream file(filename, ios::app);
+    file << "Multiplier calculation logged." << endl;
+}

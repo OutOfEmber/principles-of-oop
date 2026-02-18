@@ -21,13 +21,7 @@
     <ClCompile Include="Multiplier.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="Substractor.cpp">
-      <Filter>Файлы ресурсов</Filter>
-    </ClCompile>
-    <ClCompile Include="IShuffle.cpp">
-      <Filter>Файлы ресурсов</Filter>
-    </ClCompile>
-    <ClCompile Include="ILoggable.cpp">
+    <ClCompile Include="Subtractor.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
     <ClCompile Include="ExpressionEvaluator.cpp">
@@ -50,7 +44,7 @@
     <ClInclude Include="IShuffle.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Substractor.h">
+    <ClInclude Include="Subtractor.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Multiplier.h">

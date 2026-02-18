@@ -1,14 +1,14 @@
-#pragma once
-#include <iostream>
+#ifndef MULTIPLIER_H
+#define MULTIPLIER_H
 #include "ExpressionEvaluator.h"
-#include <string>
 
 using namespace std;
 
 class Multiplier : public ExpressionEvaluator {
 public:
-    Multiplier(size_t n) : ExpressionEvaluator(n) {};
-    virtual double calculate() override {};
-    virtual void logToScreen() override {};
-    virtual void logToFile(const string& filename) override {};
+    Multiplier(size_t n);
+    double calculate() override;
+    void logToScreen() override;
+    void logToFile(const string& filename) override;
 };
+#endif
