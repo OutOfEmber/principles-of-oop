@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\principles-of-oopZ2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\principles-of-oopZ2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\Teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\Teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\ISalaryCalculation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\ISalaryCalculation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\principles-of-oopZ2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{801CFCE5-29CB-49BF-B415-3B83F04B9FD1}|principles-of-oopZ2\\principles-of-oopZ2.vcxproj|solutionrelative:principles-of-oopZ2\\principles-of-oopZ2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -44,59 +48,85 @@
               "RelativeDocumentMoniker": "principles-of-oopZ2\\Student.h",
               "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Student.h",
               "RelativeToolTip": "principles-of-oopZ2\\Student.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-18T17:53:03.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Teacher.h",
               "DocumentMoniker": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.h",
               "RelativeDocumentMoniker": "principles-of-oopZ2\\Teacher.h",
               "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.h",
               "RelativeToolTip": "principles-of-oopZ2\\Teacher.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-18T17:51:47.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Student.cpp",
+              "RelativeDocumentMoniker": "principles-of-oopZ2\\Student.cpp",
+              "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Student.cpp",
+              "RelativeToolTip": "principles-of-oopZ2\\Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T17:40:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cpp",
+              "DocumentMoniker": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.cpp",
+              "RelativeDocumentMoniker": "principles-of-oopZ2\\Teacher.cpp",
+              "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Teacher.cpp",
+              "RelativeToolTip": "principles-of-oopZ2\\Teacher.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T17:23:44.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Person.h",
               "DocumentMoniker": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Person.h",
               "RelativeDocumentMoniker": "principles-of-oopZ2\\Person.h",
               "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\Person.h",
               "RelativeToolTip": "principles-of-oopZ2\\Person.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-18T17:51:08.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ISalaryCalculation.h",
               "DocumentMoniker": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\ISalaryCalculation.h",
               "RelativeDocumentMoniker": "principles-of-oopZ2\\ISalaryCalculation.h",
               "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\ISalaryCalculation.h",
               "RelativeToolTip": "principles-of-oopZ2\\ISalaryCalculation.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-18T17:50:08.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "principles-of-oopZ2.cpp",
               "DocumentMoniker": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\principles-of-oopZ2.cpp",
               "RelativeDocumentMoniker": "principles-of-oopZ2\\principles-of-oopZ2.cpp",
               "ToolTip": "D:\\!github\\mdkcpplr3\\principles-of-oop\\principles-of-oop2\\principles-of-oopZ2\\principles-of-oopZ2\\principles-of-oopZ2.cpp",
               "RelativeToolTip": "principles-of-oopZ2\\principles-of-oopZ2.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-18T17:49:13.334Z",
               "EditorCaption": ""

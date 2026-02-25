@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="principles-of-oopZ2/principles-of-oopZ2.vcxproj" />
+  <Project Path="principles-of-oopZ2/principles-of-oopZ2.vcxproj" Id="801cfce5-29cb-49bf-b415-3b83f04b9fd1" />
 </Solution>
